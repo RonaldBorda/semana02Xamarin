@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\semana02\semana02\bin\Debug\semana02.exe.config
+C:\Users\HP\source\repos\semana02\semana02\bin\Debug\semana02.exe
+C:\Users\HP\source\repos\semana02\semana02\bin\Debug\semana02.pdb
+C:\Users\HP\source\repos\semana02\semana02\obj\Debug\semana02.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\semana02\semana02\obj\Debug\semana02.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\semana02\semana02\obj\Debug\semana02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\semana02\semana02\obj\Debug\semana02.exe
+C:\Users\HP\source\repos\semana02\semana02\obj\Debug\semana02.pdb
